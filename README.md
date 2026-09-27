@@ -6,6 +6,8 @@ Computer Science student at McMaster University, focused on machine learning and
 
 **Previously:** Software Engineer at KITE Research Institute (UHN), built a voice-based sleep apnea screening platform.
 
+**Clubs:** Google developer groups (GDG) open source team member.
+
 **Languages & tools:** Python, PyTorch, TypeScript, React, Node.js, C/C++, SQL, HTML/CSS, Java
 
 **Outside of code:** competitive math, problem solving competitions, tutor, research, and community advisor.
