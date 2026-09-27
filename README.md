@@ -10,6 +10,8 @@ Computer Science student at McMaster University, focused on machine learning and
 
 **Languages & tools:** Python, PyTorch, TypeScript, React, Node.js, C/C++, SQL, HTML/CSS, Java
 
-**Outside of code:** competitive math, problem solving competitions, tutor, research, and community advisor.
+**Open to:** ML and software engineering co-op roles.
+
+**Outside of code:** competitive math, problem solving competitions, personal trainer, tutoring, and community advising.
 
 **Contact:** zamane1@mcmaster.ca | [LinkedIn](https://linkedin.com/in/erfan-zamani1)
