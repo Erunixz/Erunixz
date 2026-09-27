@@ -1,6 +1,6 @@
 ### Hi, I'm Erfan
 
-Computer Science student at McMaster University, focused on machine learning and full-stack development.
+Computer Science student at McMaster University, focused on machine learning and software engineering.
 
 **Currently:** Machine Learning Research Assistant at McMaster, building efficient image enhancement models in PyTorch.
 
