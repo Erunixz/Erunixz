@@ -34,7 +34,7 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 
 ```
           cccocosiiroorcxsirrccocros
-       j~si~xar~oi;oxsiicseciima:rcoose
+       j~si~xar~oi;oxsiicseciima:rcoosc
     ora~siii~aoocio~aicx~crssoiea~r;:csaae
   ocka:ii~~oiurs~cir;ii:∙:si~orir;csiicoiicma
  i;esruo:;aa;~oasr;crexacsec;~~roir~csaa~ixicki
@@ -84,7 +84,7 @@ AI trip planner with a 10-stage multi-agent pipeline and 3D city navigation
 
 #### [thru.io](https://github.com/Erunixz/thru.io)
 
-Voice AI drive-through with a live kitchen display, built at Mac-a-Thon 2026
+Fully AI powered drive-through and kitchen display with multilingual interactions
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow&theme=dark" height="28" alt="React, Node.js, Express, TensorFlow" />
 
