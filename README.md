@@ -12,13 +12,24 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 
 <br/>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### About
 
-**Now** · Machine Learning Research Assistant at McMaster, building efficient image enhancement models in PyTorch<br/>
-**Before** · Software Engineer at KITE Research Institute (UHN), voice-based sleep apnea screening platform<br/>
-**Community** · Google Developer Groups (GDG) open source team member<br/>
-**Outside of code** · competitive math, problem-solving competitions, tutoring, community advising<br/>
-**Open to** · ML and software engineering co-op roles
+$\color{#FF69B4}{\textsf{Now}}$ · Machine Learning Research Assistant at McMaster, building efficient image enhancement models in PyTorch
+
+$\color{#FF69B4}{\textsf{Before}}$ · Software Engineer at KITE Research Institute (UHN), voice-based sleep apnea screening platform
+
+$\color{#FF69B4}{\textsf{Community}}$ · Google Developer Groups (GDG) open source team member
+
+$\color{#FF69B4}{\textsf{Outside\ of\ code}}$ · competitive math, problem-solving competitions, tutoring, community advising
+
+$\color{#FF69B4}{\textsf{Open\ to}}$ · ML and software engineering co-op roles
+
+</td>
+<td width="50%" valign="top">
 
 ```
                   
@@ -49,6 +60,10 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
           ruwbg#%&@@@@@@@@@@@@@#w%@#us:::∙
                 ∙~a&@@@@@@@@@@&pg@gbkx~sc;
 ```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
