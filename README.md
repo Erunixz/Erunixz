@@ -18,7 +18,15 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 
 ### About
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=20&duration=600&pause=100&color=FF69B4&multiline=true&repeat=false&width=140&height=180&lines=Now;Before;Community;Outside+of+code;Open+to" width="98" alt="Now, Before, Community, Outside of code, Open to" /><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=20&duration=600&pause=100&color=C9D1D9&multiline=true&repeat=false&width=400&height=180&lines=ML+Research+Assistant+%40+McMaster,+PyTorch;Software+Engineer+%40+KITE+Research+Institute+(UHN);Google+Developer+Groups+open+source+team;competitive+math,+tutoring,+community+advising;ML+and+software+engineering+co-op+roles" width="280" alt="ML Research Assistant at McMaster; Software Engineer at KITE Research Institute (UHN); GDG open source team; competitive math, tutoring, community advising; ML and SWE co-op roles" />
+**Now** · ML Research Assistant @ McMaster
+
+**Before** · Software Engineer @ KITE (UHN)
+
+**Community** · GDG open source team
+
+**Outside of code** · competitive math, tutoring
+
+**Open to** · ML and SWE co-op roles
 
 </td>
 <td width="50%" valign="top">
@@ -26,16 +34,16 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 ```
                   
               :xcccocosiiroorcxsirrccocr;
-            j~si~xar~oi;oxsiicseciima:rccooseacc;
+            j~si~xar~oi;oxsiicseciima:rccooseacc
          ora~siii~aoocio~aicx~crssoiea~rs;:csaae~~s~
        ocka:ii~~oiurs~cir;ii:∙:si~orir;~csiicoiicmao
       i;esruo:;aa;~oasr;crexacsec;~~rocir~csaa~ixickli
-     sioce∙iex~~c~rsrc~s:   ;xmaec uc~rcioioeioa;~cc;i
+     sioce∙iex~~c~rsrc~s: 3s ;xmaec uc~rcioioeioa;~cc;
       o~ri~wss~;sors::∙ui;c  ~mi  cqus~:c~rcx;irsexc;
       cr:rimsciri ~isc~;ic∙ ~xq&k;keo si;cs~;xc~iucr
-       cimeirirod   ;r;    :g@@@c·     ∙;eaisasscgs
+       cimeirirod ss;r; h:g@@@c·d   tk∙;eaisasscgs
         as;:;:cwxcxs~:: cskab@&w~sesiirss ~r~ocrsoc
-         icr  exg&s ;∙:~uogau@&~xse;  :  xc; :c~is∙
+         icr  exg&s ;∙:~uogau@&~xse;\;:  xc; :c~is
          sd#: rap%%%%#&@@&urag%~ k@@@&qwkwa  ;b
           p#d  skq#@@@@@@o∙ opgm  w@@@@%dxi a#o
           rqq~ iu#@@@&&@x:aoskdxcc:a@@@@%d~ wq∙
