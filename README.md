@@ -17,29 +17,29 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 <tr>
 <td width="50%" valign="middle">
 
-### About
+<h3 align="center">About</h3>
 
-**Now** · ML Research Assistant @ McMaster
+**Now** · ML research on image enhancement @ McMaster
 
-**Before** · Software Engineer @ KITE (UHN)
+**Before** · Voice-based sleep apnea screening @ KITE (UHN)
 
-**Community** · GDG open source team
+**Community** · Building AgentGuard, AI-agent security @ GDG
 
-**Outside of Code** · competitive math, tutoring
+**Outside of Code** · competitive math, tutoring, community advisor
 
-**Interested in** · ML and SWE co-op roles
+**Interested in** · ML and SWE contributions
 
 </td>
 <td width="50%" valign="middle">
 
 ```
-         :cccocosiiroorcxsirrccocr:
-       j~si~xar~oi;oxsiicseciima:rccoosea
-    ora~siii~aoocio~aicx~crssoiea~rs;:csaae
-  ocka:ii~~oiurs~cir;ii:∙:si~orir;~csiicoiicma
- i;esruo:;aa;~oasr;crexacsec;~~rocir~csaa~ixicki
-sioce∙iex~~c~rsrc~s: 3s ;xmaec uc~rcioioeioa;~cc
- o~ri~wss~;sors::∙ui;c  ~mi  cqus~:c~rcx;irsexc;
+          cccocosiiroorcxsirrccocros
+       j~si~xar~oi;oxsiicseciima:rcoose
+    ora~siii~aoocio~aicx~crssoiea~r;:csaae
+  ocka:ii~~oiurs~cir;ii:∙:si~orir;csiicoiicma
+ i;esruo:;aa;~oasr;crexacsec;~~roir~csaa~ixicki
+sioce∙iex~~c~rsrc~s: 3s ;xmaec u~rcioioeioa;~cc
+ o~ri~wss~;sors::∙ui;c  ~mi  cqs~:c~rcx;irsexc;
  cr:rimsciri ~isc~;ic∙ ~xq&k;keo si;cs~;xc~iucr
   cimeirirod ss;r; h:g@@@c·d   tk∙;eaisasscgs:
    as;:;:cwxcxs~:: cskab@&w~sesiirss ~r~ocrsoc
@@ -67,7 +67,7 @@ sioce∙iex~~c~rsrc~s: 3s ;xmaec uc~rcioioeioa;~cc
 
 <br/>
 
-### Projects
+<h3 align="center">Projects</h3>
 
 <table align="center">
 <tr>
@@ -94,7 +94,7 @@ Voice AI drive-through with a live kitchen display, built at Mac-a-Thon 2026
 
 <br/>
 
-### Stack
+<h3 align="center">Stack</h3>
 
 <table align="center">
 <tr><td width="25%"><b>ML / AI</b></td><td><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn&theme=dark" height="36" /></td></tr>
