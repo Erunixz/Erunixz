@@ -18,15 +18,7 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 
 ### About
 
-$\color{#FF69B4}{\textsf{Now}}$ · Machine Learning Research Assistant at McMaster, building efficient image enhancement models in PyTorch
-
-$\color{#FF69B4}{\textsf{Before}}$ · Software Engineer at KITE Research Institute (UHN), voice-based sleep apnea screening platform
-
-$\color{#FF69B4}{\textsf{Community}}$ · Google Developer Groups (GDG) open source team member
-
-$\color{#FF69B4}{\textsf{Outside\ of\ code}}$ · competitive math, problem-solving competitions, tutoring, community advising
-
-$\color{#FF69B4}{\textsf{Open\ to}}$ · ML and software engineering co-op roles
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&size=20&duration=600&pause=100&color=FF69B4&multiline=true&repeat=false&width=140&height=180&lines=Now;Before;Community;Outside+of+code;Open+to" width="98" alt="Now, Before, Community, Outside of code, Open to" /><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=20&duration=600&pause=100&color=C9D1D9&multiline=true&repeat=false&width=400&height=180&lines=ML+Research+Assistant+%40+McMaster,+PyTorch;Software+Engineer+%40+KITE+Research+Institute+(UHN);Google+Developer+Groups+open+source+team;competitive+math,+tutoring,+community+advising;ML+and+software+engineering+co-op+roles" width="280" alt="ML Research Assistant at McMaster; Software Engineer at KITE Research Institute (UHN); GDG open source team; competitive math, tutoring, community advising; ML and SWE co-op roles" />
 
 </td>
 <td width="50%" valign="top">
