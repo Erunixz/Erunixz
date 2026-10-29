@@ -18,30 +18,30 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 
 ### About
 
-**Now** · ML Research Assistant @ McMaster
+**$\color{#FF69B4}{\textsf{Now}}$** · ML Research Assistant @ McMaster
 
-**Before** · Software Engineer @ KITE (UHN)
+**$\color{#FF69B4}{\textsf{Before}}$** · Software Engineer @ KITE (UHN)
 
-**Community** · GDG open source team
+**$\color{#FF69B4}{\textsf{Community}}$** · GDG open source team
 
-**Outside of code** · competitive math, tutoring
+**$\color{#FF69B4}{\textsf{Outside of Code}}$** · competitive math, tutoring
 
-**Open to** · ML and SWE co-op roles
+**$\color{#FF69B4}{\textsf{Interested in}}$** · ML and SWE co-op roles
 
 </td>
 <td width="50%" valign="top">
 
 ```
                   
-              :xcccocosiiroorcxsirrccocr;
-            j~si~xar~oi;oxsiicseciima:rccooseacc
-         ora~siii~aoocio~aicx~crssoiea~rs;:csaae~~s~
-       ocka:ii~~oiurs~cir;ii:∙:si~orir;~csiicoiicmao
-      i;esruo:;aa;~oasr;crexacsec;~~rocir~csaa~ixickli
-     sioce∙iex~~c~rsrc~s: 3s ;xmaec uc~rcioioeioa;~cc;
+              :cccocosiiroorcxsirrccocr:
+            j~si~xar~oi;oxsiicseciima:rccoosea
+         ora~siii~aoocio~aicx~crssoiea~rs;:csaae
+       ocka:ii~~oiurs~cir;ii:∙:si~orir;~csiicoiicma
+      i;esruo:;aa;~oasr;crexacsec;~~rocir~csaa~ixicki
+     sioce∙iex~~c~rsrc~s: 3s ;xmaec uc~rcioioeioa;~cc
       o~ri~wss~;sors::∙ui;c  ~mi  cqus~:c~rcx;irsexc;
       cr:rimsciri ~isc~;ic∙ ~xq&k;keo si;cs~;xc~iucr
-       cimeirirod ss;r; h:g@@@c·d   tk∙;eaisasscgs
+       cimeirirod ss;r; h:g@@@c·d   tk∙;eaisasscgs:
         as;:;:cwxcxs~:: cskab@&w~sesiirss ~r~ocrsoc
          icr  exg&s ;∙:~uogau@&~xse;\;:  xc; :c~is
          sd#: rap%%%%#&@@&urag%~ k@@@&qwkwa  ;b
@@ -67,7 +67,7 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 
 <br/>
 
-### Projects
+### $\color{#FF69B4}{\textsf{Projects}}$
 
 **[Orbitour](https://github.com/Erunixz/Orbitour)** · AI trip planner with a 10-stage multi-agent pipeline and 3D city navigation<br/>
 <img src="https://skillicons.dev/icons?i=react,ts,nodejs,threejs,mongodb&theme=dark" height="28" alt="React, TypeScript, Node.js, three.js, MongoDB" />
@@ -77,6 +77,6 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 
 <br/>
 
-### Stack
+### $\color{#FF69B4}{\textsf{Stack}}$
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,ts,js,react,nodejs,express,threejs,c,cpp,java,haskell,mongodb,mysql,aws,git,linux&theme=dark&perline=10" alt="Tech stack" />
