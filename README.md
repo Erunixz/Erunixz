@@ -12,7 +12,7 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="middle">
 
@@ -32,33 +32,32 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 <td width="50%" valign="middle">
 
 ```
-                  
-              :cccocosiiroorcxsirrccocr:
-            j~si~xar~oi;oxsiicseciima:rccoosea
-         ora~siii~aoocio~aicx~crssoiea~rs;:csaae
-       ocka:ii~~oiurs~cir;ii:∙:si~orir;~csiicoiicma
-      i;esruo:;aa;~oasr;crexacsec;~~rocir~csaa~ixicki
-     sioce∙iex~~c~rsrc~s: 3s ;xmaec uc~rcioioeioa;~cc
-      o~ri~wss~;sors::∙ui;c  ~mi  cqus~:c~rcx;irsexc;
-      cr:rimsciri ~isc~;ic∙ ~xq&k;keo si;cs~;xc~iucr
-       cimeirirod ss;r; h:g@@@c·d   tk∙;eaisasscgs:
-        as;:;:cwxcxs~:: cskab@&w~sesiirss ~r~ocrsoc
-         icr  exg&s ;∙:~uogau@&~xse;\;:  xc; :c~is
-         sd#: rap%%%%#&@@&urag%~ k@@@&qwkwa  ;b
-          p#d  skq#@@@@@@o∙ opgm  w@@@@%dxi a#o
-          rqq~ iu#@@@&&@x:aoskdxcc:a@@@@%d~ wq∙
-           ∙sr ;xb&#dpwes;;;rsoi~  ck###@u:~pi
-               ~ab#g;   ∙::::i~∙::∙   aq&cc
-               ∙abk&&&r ∙oaummumkxo ∙k%gwa:
-                ∙ewb&@&qc:∙∙::::∙:∙;p&%we~
-               ~∙ rxmp#&&pwaar::rexpgdre;
-               rkc :o~;udgpggkxupqgks∙∙
-               oq%ps;   :rrcxedxio;   s:
-              :edg&@&w               mx
-          ∙rx~cwbg%@@@@qaor~~~:;;~cp&kr
-       :c;q#ksxbg#&@@@@@%#@@@%%#kd@@qa~
-          ruwbg#%&@@@@@@@@@@@@@#w%@#us:::∙
-                ∙~a&@@@@@@@@@@&pg@gbkx~sc;
+         :cccocosiiroorcxsirrccocr:
+       j~si~xar~oi;oxsiicseciima:rccoosea
+    ora~siii~aoocio~aicx~crssoiea~rs;:csaae
+  ocka:ii~~oiurs~cir;ii:∙:si~orir;~csiicoiicma
+ i;esruo:;aa;~oasr;crexacsec;~~rocir~csaa~ixicki
+sioce∙iex~~c~rsrc~s: 3s ;xmaec uc~rcioioeioa;~cc
+ o~ri~wss~;sors::∙ui;c  ~mi  cqus~:c~rcx;irsexc;
+ cr:rimsciri ~isc~;ic∙ ~xq&k;keo si;cs~;xc~iucr
+  cimeirirod ss;r; h:g@@@c·d   tk∙;eaisasscgs:
+   as;:;:cwxcxs~:: cskab@&w~sesiirss ~r~ocrsoc
+    icr  exg&s ;∙:~uogau@&~xse;\;:  xc; :c~is
+    sd#: rap%%%%#&@@&urag%~ k@@@&qwkwa  ;b
+     p#d  skq#@@@@@@o∙ opgm  w@@@@%dxi a#o
+     rqq~ iu#@@@&&@x:aoskdxcc:a@@@@%d~ wq∙
+      ∙sr ;xb&#dpwes;;;rsoi~  ck###@u:~pi
+          ~ab#g;   ∙::::i~∙::∙   aq&cc
+          ∙abk&&&r ∙oaummumkxo ∙k%gwa:
+           ∙ewb&@&qc:∙∙::::∙:∙;p&%we~
+          ~∙ rxmp#&&pwaar::rexpgdre;
+          rkc :o~;udgpggkxupqgks∙∙
+          oq%ps;   :rrcxedxio;   s:
+         :edg&@&w               mx
+     ∙rx~cwbg%@@@@qaor~~~:;;~cp&kr
+  :c;q#ksxbg#&@@@@@%#@@@%%#kd@@qa~
+     ruwbg#%&@@@@@@@@@@@@@#w%@#us:::∙
+           ∙~a&@@@@@@@@@@&pg@gbkx~sc;
 ```
 
 </td>
