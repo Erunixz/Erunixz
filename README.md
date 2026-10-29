@@ -20,6 +20,36 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 **Outside of code** · competitive math, problem-solving competitions, tutoring, community advising<br/>
 **Open to** · ML and software engineering co-op roles
 
+```
+                  
+              :xcccocosiiroorcxsirrccocr;
+            j~si~xar~oi;oxsiicseciima:rccooseacc;
+         ora~siii~aoocio~aicx~crssoiea~rs;:csaae~~s~
+       ocka:ii~~oiurs~cir;ii:∙:si~orir;~csiicoiicmao
+      i;esruo:;aa;~oasr;crexacsec;~~rocir~csaa~ixickli
+     sioce∙iex~~c~rsrc~s:   ;xmaec uc~rcioioeioa;~cc;i
+      o~ri~wss~;sors::∙ui;c  ~mi  cqus~:c~rcx;irsexc;
+      cr:rimsciri ~isc~;ic∙ ~xq&k;keo si;cs~;xc~iucr
+       cimeirirod   ;r;    :g@@@c·     ∙;eaisasscgs
+        as;:;:cwxcxs~:: cskab@&w~sesiirss ~r~ocrsoc
+         icr  exg&s ;∙:~uogau@&~xse;  :  xc; :c~is∙
+         sd#: rap%%%%#&@@&urag%~ k@@@&qwkwa  ;b
+          p#d  skq#@@@@@@o∙ opgm  w@@@@%dxi a#o
+          rqq~ iu#@@@&&@x:aoskdxcc:a@@@@%d~ wq∙
+           ∙sr ;xb&#dpwes;;;rsoi~  ck###@u:~pi
+               ~ab#g;   ∙::::i~∙::∙   aq&cc
+               ∙abk&&&r ∙oaummumkxo ∙k%gwa:
+                ∙ewb&@&qc:∙∙::::∙:∙;p&%we~
+               ~∙ rxmp#&&pwaar::rexpgdre;
+               rkc :o~;udgpggkxupqgks∙∙
+               oq%ps;   :rrcxedxio;   s:
+              :edg&@&w               mx
+          ∙rx~cwbg%@@@@qaor~~~:;;~cp&kr
+       :c;q#ksxbg#&@@@@@%#@@@%%#kd@@qa~
+          ruwbg#%&@@@@@@@@@@@@@#w%@#us:::∙
+                ∙~a&@@@@@@@@@@&pg@gbkx~sc;
+```
+
 <br/>
 
 ### Projects
