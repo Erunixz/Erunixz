@@ -14,7 +14,7 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
 ### About
 
@@ -29,7 +29,7 @@ Computer Science @ McMaster University · Machine Learning & Full-Stack
 **Interested in** · ML and SWE co-op roles
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
 ```
                   
