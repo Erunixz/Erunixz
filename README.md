@@ -90,6 +90,17 @@ Fully AI powered drive-through and kitchen display with multilingual interaction
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### [SweepMate](https://github.com/Erunixz/SweepMate)
+
+Offline-first PWA for overnight residence rounds, used by Community Advisors on real shifts: guided room-by-room walkthroughs, occupancy counts, incident notes, and one-tap coverage reports ready to paste into StarRez
+
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,vercel&theme=dark" height="28" alt="React, TypeScript, Vite, Tailwind CSS, Vercel" />
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -105,4 +116,10 @@ Fully AI powered drive-through and kitchen display with multilingual interaction
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:7B2FF7&height=100&section=footer" width="100%" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/eyes.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/eyes-light.gif" />
+    <img src="./assets/eyes.gif" width="100%" alt="ASCII eyes that look around and blink" />
+  </picture>
+</p>
