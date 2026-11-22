@@ -117,9 +117,9 @@ Offline-first PWA for overnight residence rounds, used by Community Advisors on 
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/eyes.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/eyes-light.gif" />
-    <img src="./assets/eyes.gif" width="100%" alt="ASCII eyes that look around and blink" />
-  </picture>
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./eyes.gif" />
+            <source media="(prefers-color-scheme: light)" srcset="./eyes-light.gif" />
+            <img src="./eyes.gif" width="100%" alt="ASCII eyes that look around and blink" />
+          </picture>
 </p>
